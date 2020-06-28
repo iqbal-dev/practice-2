@@ -45,6 +45,7 @@ nav ul li a{
     text-transform: uppercase;
     padding: 10px 15px;
     color: #161e39;
+    border-radius: 30px;
     transition:all .5s;
 }
 nav ul li a:hover{
